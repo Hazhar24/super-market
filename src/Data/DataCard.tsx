@@ -1,0 +1,58 @@
+export const DataCard = [
+  {
+    name: "زعفران",
+    price: "43.000",
+    date: "1402/02/25",
+    ditali: "5 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+  {
+    name: "نبات",
+    price: "20.000",
+    date: "1402/02/25",
+    ditali: "51 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+  {
+    name: "چای",
+    price: "43.000",
+    date: "1402/02/25",
+    ditali: "30 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+  {
+    name: "برنج مژده",
+    price: "500.000",
+    date: "1402/02/25",
+    ditali: "15 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+  {
+    name: "لوبیا",
+    price: "55.000",
+    date: "1402/02/25",
+    ditali: "15 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+  {
+    name: "شیر",
+    price: "16.000",
+    date: "1402/02/25",
+    ditali: "15 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+  {
+    name: "گوشت",
+    price: "101.000",
+    date: "1402/02/25",
+    ditali: "15 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+  {
+    name: "پنیر",
+    price: "25.000",
+    date: "1402/02/25",
+    ditali: "15 دقیقه پیش",
+    img:"image/IMG.png",
+  },
+];

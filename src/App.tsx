@@ -1,9 +1,12 @@
 import './App.css'
+import TopbarSearch from './components/TopbarSearch'
+import Card from './components/Card'
 
 function App() {
   return (
-    <div>
-      <h1 className='bg-red-200'>hazhar</h1>
+    <div className='rtl APP'>
+      <TopbarSearch />
+      <Card />
     </div>
   )
 }
